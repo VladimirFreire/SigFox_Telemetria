@@ -1,0 +1,24 @@
+
+Body
+[{
+"variable": "device",
+"value": "{device}",
+"serie": "{time}"
+},{
+"variable": "data",
+"value": "{data}",
+"serie": "{time}"
+},{
+"variable": "seqNumber",
+"value": "{seqNumber}",
+"serie": "{time}"
+}]
+
+ou 
+
+{
+"deviceid" : "{device}",
+"time" : "{time}",
+"data":"{data}",
+"seqNumber":"{seqNumber}"
+}
